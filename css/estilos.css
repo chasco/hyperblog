@@ -1,6 +1,5 @@
 body
 {
-    background: black;
     color: #333;
     text-align: center; 
     font-family: 'Times New Roman', Times, serif;
@@ -41,6 +40,13 @@ body
     font-size: 0.8em;
 }
 #post
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+#footer
 {
     background: #777;
     color: white;
